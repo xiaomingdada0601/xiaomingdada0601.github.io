@@ -1,0 +1,16 @@
+import comp from "E:/mingboke/.vuepress/.temp/pages/blogs/frontend/2023/symbol.html.vue"
+const data = JSON.parse("{\"path\":\"/blogs/frontend/2023/symbol.html\",\"title\":\"什么是Symbol？\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"什么是Symbol？\",\"date\":\"2023-12-27T00:00:00.000Z\",\"tags\":[\"javaScript\"],\"categories\":[\"前端\"],\"sticky\":1},\"headers\":[{\"level\":2,\"title\":\"1. 使用 Symbol() 创建\",\"slug\":\"_1-使用-symbol-创建\",\"link\":\"#_1-使用-symbol-创建\",\"children\":[]},{\"level\":2,\"title\":\"2. 使用 Symbol.for()创建可共享 Symbol\",\"slug\":\"_2-使用-symbol-for-创建可共享-symbol\",\"link\":\"#_2-使用-symbol-for-创建可共享-symbol\",\"children\":[]},{\"level\":2,\"title\":\"3. 在实际开发中的运用\",\"slug\":\"_3-在实际开发中的运用\",\"link\":\"#_3-在实际开发中的运用\",\"children\":[{\"level\":3,\"title\":\"3.1 作为对象属性的键\",\"slug\":\"_3-1-作为对象属性的键\",\"link\":\"#_3-1-作为对象属性的键\",\"children\":[]},{\"level\":3,\"title\":\"3.2 定义常量\",\"slug\":\"_3-2-定义常量\",\"link\":\"#_3-2-定义常量\",\"children\":[]},{\"level\":3,\"title\":\"3.3 实现类似私有成员\",\"slug\":\"_3-3-实现类似私有成员\",\"link\":\"#_3-3-实现类似私有成员\",\"children\":[]},{\"level\":3,\"title\":\"3.4 使用内置 Symbol 值\",\"slug\":\"_3-4-使用内置-symbol-值\",\"link\":\"#_3-4-使用内置-symbol-值\",\"children\":[]}]},{\"level\":2,\"title\":\"4. Symbol 的遍历\",\"slug\":\"_4-symbol-的遍历\",\"link\":\"#_4-symbol-的遍历\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"blogs/frontend/2023/symbol.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
