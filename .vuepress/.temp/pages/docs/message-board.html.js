@@ -1,5 +1,5 @@
 import comp from "E:/mingboke/.vuepress/.temp/pages/docs/message-board.html.vue"
-const data = JSON.parse("{\"path\":\"/docs/message-board.html\",\"title\":\"留言板\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"留言板\",\"date\":\"2024/06/01\",\"hideComments\":false},\"headers\":[],\"git\":{},\"filePathRelative\":\"docs/message-board.md\"}")
+const data = JSON.parse("{\"path\":\"/docs/message-board.html\",\"title\":\"留言板\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"留言板\",\"date\":\"2024/06/01\",\"hideComments\":false},\"headers\":[],\"git\":{\"createdTime\":1744356113000,\"updatedTime\":1744356113000,\"contributors\":[{\"name\":\"杨明明\",\"email\":\"15689280+yangmingming0601@user.noreply.gitee.com\",\"commits\":1}]},\"filePathRelative\":\"docs/message-board.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

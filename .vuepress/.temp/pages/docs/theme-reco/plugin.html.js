@@ -1,5 +1,5 @@
 import comp from "E:/mingboke/.vuepress/.temp/pages/docs/theme-reco/plugin.html.vue"
-const data = JSON.parse("{\"path\":\"/docs/theme-reco/plugin.html\",\"title\":\"plugin\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"plugin\",\"date\":\"2020/05/28\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"docs/theme-reco/plugin.md\"}")
+const data = JSON.parse("{\"path\":\"/docs/theme-reco/plugin.html\",\"title\":\"plugin\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"plugin\",\"date\":\"2020/05/28\"},\"headers\":[],\"git\":{\"createdTime\":1744356113000,\"updatedTime\":1744356113000,\"contributors\":[{\"name\":\"杨明明\",\"email\":\"15689280+yangmingming0601@user.noreply.gitee.com\",\"commits\":1}]},\"filePathRelative\":\"docs/theme-reco/plugin.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

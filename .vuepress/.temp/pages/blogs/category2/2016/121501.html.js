@@ -1,5 +1,5 @@
 import comp from "E:/mingboke/.vuepress/.temp/pages/blogs/category2/2016/121501.html.vue"
-const data = JSON.parse("{\"path\":\"/blogs/category2/2016/121501.html\",\"title\":\"first page in category2\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"first page in category2\",\"date\":\"2016/12/15\",\"tags\":[\"tag3\"],\"categories\":[\"category2\"]},\"headers\":[],\"git\":{},\"filePathRelative\":\"blogs/category2/2016/121501.md\"}")
+const data = JSON.parse("{\"path\":\"/blogs/category2/2016/121501.html\",\"title\":\"first page in category2\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"first page in category2\",\"date\":\"2016/12/15\",\"tags\":[\"tag3\"],\"categories\":[\"category2\"]},\"headers\":[],\"git\":{\"createdTime\":1744356113000,\"updatedTime\":1744356113000,\"contributors\":[{\"name\":\"杨明明\",\"email\":\"15689280+yangmingming0601@user.noreply.gitee.com\",\"commits\":1}]},\"filePathRelative\":\"blogs/category2/2016/121501.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
